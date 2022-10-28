@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UPACKRI\\Desktop\\HomeTasks\\UnitTesting\\Calculator11\\MSTestUnitTest\\MSTestUnitTest.csproj": {}
+    "C:\\Users\\UPACKRI\\Desktop\\HomeTasks\\UnitTesting\\HomeTask\\Calculator11\\MSTestUnitTest\\MSTestUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UPACKRI\\Desktop\\HomeTasks\\UnitTesting\\Calculator11\\MSTestUnitTest\\MSTestUnitTest.csproj": {
+    "C:\\Users\\UPACKRI\\Desktop\\HomeTasks\\UnitTesting\\HomeTask\\Calculator11\\MSTestUnitTest\\MSTestUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UPACKRI\\Desktop\\HomeTasks\\UnitTesting\\Calculator11\\MSTestUnitTest\\MSTestUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\UPACKRI\\Desktop\\HomeTasks\\UnitTesting\\HomeTask\\Calculator11\\MSTestUnitTest\\MSTestUnitTest.csproj",
         "projectName": "MSTestUnitTest",
-        "projectPath": "C:\\Users\\UPACKRI\\Desktop\\HomeTasks\\UnitTesting\\Calculator11\\MSTestUnitTest\\MSTestUnitTest.csproj",
+        "projectPath": "C:\\Users\\UPACKRI\\Desktop\\HomeTasks\\UnitTesting\\HomeTask\\Calculator11\\MSTestUnitTest\\MSTestUnitTest.csproj",
         "packagesPath": "C:\\Users\\UPACKRI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UPACKRI\\Desktop\\HomeTasks\\UnitTesting\\Calculator11\\MSTestUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\UPACKRI\\Desktop\\HomeTasks\\UnitTesting\\HomeTask\\Calculator11\\MSTestUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
